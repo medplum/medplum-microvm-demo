@@ -52,3 +52,5 @@ Medplum supports self-hosting, and provides a [hosted service](https://app.medpl
 - Read our [documentation](https://www.medplum.com/docs)
 - Browse our [react component library](https://storybook.medplum.com/)
 - Join our [Discord](https://discord.gg/medplum)
+
+Supervisor split verified: app.js runs unprivileged with no network access.
