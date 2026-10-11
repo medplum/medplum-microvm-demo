@@ -52,3 +52,5 @@ Medplum supports self-hosting, and provides a [hosted service](https://app.medpl
 - Read our [documentation](https://www.medplum.com/docs)
 - Browse our [react component library](https://storybook.medplum.com/)
 - Join our [Discord](https://discord.gg/medplum)
+
+Verified in a MicroVM with the generic secrets bundle.
